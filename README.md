@@ -1,1 +1,1 @@
-# Gourav_Fake_news_prediction
+Fake_news_detection
